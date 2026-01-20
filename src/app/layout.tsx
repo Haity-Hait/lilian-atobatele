@@ -9,8 +9,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Lilian Atobatele Blessing",
-  description: "Lilian Atobatele Blessing - Content Copywriter & Social Media Manager",
+  title: "Lilian Atobatele Abimbola",
+  description: "Lilian Atobatele Abimbola - Content Copywriter & Social Media Manager",
 };
 
 export default function RootLayout({
