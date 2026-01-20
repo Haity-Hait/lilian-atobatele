@@ -10,7 +10,7 @@ const AboutMe = () => {
                         <div className="flex flex-col gap-4">
                             <p className="text-sm tracking-[2px] text-primary uppercase font-medium">About Me</p>
                             <h2 className="text-xl sm:text-2xl md:text-3xl lg:text-[32px]">
-  Hi, I’m Lilian — a Nigeria-based <span className="border-b-2">Copywriter & Social Media Manager</span> helping productivity brands grow through{" "}
+  Hi, I’m Lilian — a <span className="border-b-2">Copywriter & Social Media Manager</span> helping productivity brands grow through{" "}
   <span className="bg-[linear-gradient(90deg,_rgba(243,202,77,0.4)_0%,_rgba(243,202,77,0.05)_100%)]">
     high-engagement content
   </span>{" "}

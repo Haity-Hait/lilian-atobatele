@@ -44,7 +44,7 @@ const projectOverview = {
         { name: "Raptor Altare", url: "/RAPTOR ALTARE.pdf" },
     ],
     sideProjects: [
-        { name: "Solarinth Educational Blog", url: "/Solarinth.pdf" },
+        { name: "Solrinth Educational Blog", url: "/Solarinth.pdf" },
         { name: "Luxien", comingSoon: true },
     ]
 };

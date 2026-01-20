@@ -35,10 +35,7 @@ const HeroSection = () => {
                             <div className="flex flex-col gap-2 sm:gap-3 items-center text-center xs:items-start">
                                 <h1>Lilian Atobatele</h1>
                                 <p className="text-violet-700 font-normal">Content Copywriter & Social Media Manager</p>
-                                <div className="flex items-center gap-2">
-                                    <Image src={"/images/icon/map-icon.svg"} alt="map-icon" width={20} height={20} />
-                                    <p className="text-primary">Oyo State, Nigeria</p>
-                                </div>
+                                
                             </div>
                             <div className="flex flex-col md:flex-row items-center gap-4">
                                 <div className="flex items-center gap-2">
